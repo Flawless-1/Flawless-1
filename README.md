@@ -11,8 +11,8 @@
 ---
 
 ### About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on FLOWVANTAGE
+- 🌱 I’m currently learning BACKEND
 - 💬 Ask me about ...
 <!--
 **Flawless-1/Flawless-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
