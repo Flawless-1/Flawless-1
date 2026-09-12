@@ -1,4 +1,4 @@
-# Hi, I'm Flawless-1 👋
+# I'm Flawless-1 👋
 
 <p align="center">
   <img src="giphy.gif" alt="Ultron" width="600"/>
